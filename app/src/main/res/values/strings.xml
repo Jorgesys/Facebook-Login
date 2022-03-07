@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Facebook Login</string>
+    <string name="welcome_msg">Facebook Login</string>
+    <string name="logout">Salir!</string>
+
+    <string name="facebook_app_id">"configure Facebook ID"</string>
+    <string name="fb_login_protocol_scheme">fb"configure Facebook ID"</string>
+
+</resources>
